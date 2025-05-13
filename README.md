@@ -1,6 +1,6 @@
 # Simple Face Recognition System using OpenCV
 
-This project is a basic real-time face recognition system built using Python and OpenCV. It uses Haar Cascade for face detection and a simple pixel-based difference method for recognition.
+This project is a basic real-time face recognition system built using Python and OpenCV.
 
 ## Features
 
@@ -15,11 +15,3 @@ This project is a basic real-time face recognition system built using Python and
 - OpenCV (`cv2`)
 - NumPy (optional, for better performance)
 - Webcam
-
-## Installation
-
-1. Clone this repository or download the `.py` file.
-
-```bash
-git clone https://github.com/yourusername/face-recognition-opencv.git
-cd face-recognition-opencv
